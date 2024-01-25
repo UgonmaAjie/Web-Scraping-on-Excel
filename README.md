@@ -29,3 +29,14 @@ _Report showing the Total number of Confirmed cases and Death Cases_
 _This is showing the yearly and monthly trend of Confirmed Cases since 2020_
 
 ![](COVID_19_2.JPG)
+
+## Analysis
+United States have the highest prevalence (confirmed cases) of COVID19 infection while
+North Korea has the lowest prevalence of COVID19 with just 300 reported cases.
+
+Yearly Confirmed Cases showed 2022 as the highest peak of almost 200,000 Confirmed Cases of the infection.
+Monthly trend shows that January and February were the season of most infected patients, the followiing months showed a decline in the spread of infection
+but gradual increase towards the last months of the year.
+
+
+
