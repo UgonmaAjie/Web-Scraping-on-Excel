@@ -15,8 +15,11 @@ and will be updated whenever fresh data is added.
 4. Cummulative Yearly Confirmed Cases of Covid 19 since 2020
 
 ## Skills demonsrated
-- power Query
+- Power Query
 - Data Cleaning
 - Pivot Tables
 - Pivot Charts
 - Filters
+
+## Visualization
+
