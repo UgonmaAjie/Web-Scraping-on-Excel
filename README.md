@@ -24,7 +24,7 @@ and will be updated whenever fresh data is added.
 ## Visualization
 _Report showing the Total number of Confirmed cases and Death Cases_
 
-
+![](Covid19.1.JPG)
 
 _This is showing the yearly and monthly trend of Confirmed Cases since 2020_
 
