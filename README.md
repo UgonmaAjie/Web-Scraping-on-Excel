@@ -5,7 +5,7 @@
 ## Introduction
 This is a Microsoft Excel project on analysis of **Covid 19**. 
 This report contains daily case reports of confirmed, deaths and recovered cases globally from January 2020 - March 2023.
-This dataset was linked to this URL: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
+This dataset was linked to this URL: [](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
 and will be updated whenever fresh data is added.
 
 ## Problem Statement
@@ -39,4 +39,5 @@ Monthly trend shows that January and February were the season of most infected p
 but gradual increase towards the last months of the year.
 
 
-
+## Recommendation
+For a deep dive into the analytics, the URL to the dataset is included in the Introduction for comaprison and data driven decision making.
