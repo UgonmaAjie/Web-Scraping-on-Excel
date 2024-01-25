@@ -14,3 +14,9 @@ and will be updated whenever fresh data is added.
 3. Cummulative Yearly Confirmed Cases of Covid 19 since 2020
 4. Cummulative Yearly Confirmed Cases of Covid 19 since 2020
 
+## Skills demonsrated
+- power Query
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- Filters
