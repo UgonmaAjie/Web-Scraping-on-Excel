@@ -22,4 +22,8 @@ and will be updated whenever fresh data is added.
 - Filters
 
 ## Visualization
+Report showing the Total number of Confirmed cases and Death Cases
+![](Covid19.1.jpg)
 
+This is showing the yearly and monthly trend of Confirmed Cases since 2020
+![](COVID_19_2.JPG)
